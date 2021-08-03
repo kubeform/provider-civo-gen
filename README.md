@@ -3,7 +3,7 @@
 
 # Kubeform Civo Provider Code Generator
 
-Generates code for Kubeform Civo Provider
+Kubeform code generator for [Terraform Civo Provider](https://github.com/civo/terraform-provider-civo)
 
 ## Installation
 
