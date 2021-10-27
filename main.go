@@ -42,6 +42,7 @@ func main() {
 		ProviderNameOriginal: "civo",
 		ProviderData:         civo.Provider(),
 		ProviderImportPath:   "github.com/civo/terraform-provider-civo/civo",
+		ProviderConfig:       "civo/civo",
 		Version:              "v1alpha1",
 		APIsPath:             apisPath,
 		ControllerPath:       controllerPath,
