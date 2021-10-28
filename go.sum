@@ -73,10 +73,10 @@ github.com/cheggaaa/pb v1.0.27/go.mod h1:pQciLPpbU0oxA0h+VJYYLxO+XeDQb5pZijXscXH
 github.com/chzyer/logex v1.1.10/go.mod h1:+Ywpsq7O8HXn0nuIou7OrIPyXbp3wmkHB+jjWRnGsAI=
 github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e/go.mod h1:nSuG5e5PlCu98SY8svDHJxuZscDgtXS6KTTbou5AhLI=
 github.com/chzyer/test v0.0.0-20180213035817-a1ea475d72b1/go.mod h1:Q3SI9o4m/ZMnBNeIyt5eFwwo7qiLfzFZmjNmxjkiQlU=
-github.com/civo/civogo v0.2.49 h1:tLIzbUIh3Za3Xc+dwR6IUrP1eF66P7N91kIe0S/jDhw=
-github.com/civo/civogo v0.2.49/go.mod h1:SR0ZOhABfQHjgNQE3UyfX4gaYsrfslkPFRFMx5P29rg=
-github.com/civo/terraform-provider-civo v0.10.9 h1:TIuDlfj1chqXRF9qfoJZcowxREEnWnAv9UUbku2I2h4=
-github.com/civo/terraform-provider-civo v0.10.9/go.mod h1:B5JnaQOeR+c/S0tMMEyLXLrBa9HAFOMsm5qSXvaAEpw=
+github.com/civo/civogo v0.2.52 h1:oeMmeGuJOZFJ+uruu13ywCWOxSa2+Lyk+ePc6rxC8gY=
+github.com/civo/civogo v0.2.52/go.mod h1:SR0ZOhABfQHjgNQE3UyfX4gaYsrfslkPFRFMx5P29rg=
+github.com/civo/terraform-provider-civo v1.0.2 h1:wfo0GWto57slQQ3CZ/xzq9lwnZd7mucTL7QGUm48uMc=
+github.com/civo/terraform-provider-civo v1.0.2/go.mod h1:g72Qc1mPrhYotYw6SHc1Sl+pQf5bJBwLRXvpXegYE0I=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
 github.com/cncf/udpa/go v0.0.0-20191209042840-269d4d468f6f/go.mod h1:M8M6+tZqaGXZJjfX53e64911xZQV5JYwmTeXPW+k8Sc=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
@@ -683,8 +683,8 @@ k8s.io/klog v0.0.0-20181102134211-b9b56d5dfc92/go.mod h1:Gq+BEi5rUBO/HRz0bTSXDUc
 k8s.io/klog v1.0.0 h1:Pt+yjF5aB1xDSVbau4VsWe+dQNzA0qv1LlXdC2dF6Q8=
 k8s.io/klog v1.0.0/go.mod h1:4Bi6QPql/J/LkTDqv7R/cd3hPo4k2DG6Ptcz060Ez5I=
 k8s.io/kube-openapi v0.0.0-20200410145947-61e04a5be9a6/go.mod h1:GRQhZsXIAJ1xR0C9bd8UpWHZ5plfAS9fzPjJuQ6JL3E=
-kubeform.dev/generator-v2 v0.0.25 h1:qUsUrDKW26qEhVbuQX5sQl9Xw4U7ik8z1eeCW6+bCRA=
-kubeform.dev/generator-v2 v0.0.25/go.mod h1:VxCKquSSSy9vhqOaegalfcqRCbbfvL1Bt+keoFx22mU=
+kubeform.dev/generator-v2 v0.0.26 h1:qdD2U7ScS+GoLI266g5LnINN+sTeYPc4sHuCf2O2Soc=
+kubeform.dev/generator-v2 v0.0.26/go.mod h1:VxCKquSSSy9vhqOaegalfcqRCbbfvL1Bt+keoFx22mU=
 rsc.io/binaryregexp v0.2.0/go.mod h1:qTv7/COck+e2FymRvadv62gMdZztPaShugOCi3I+8D8=
 rsc.io/quote/v3 v3.1.0/go.mod h1:yEA65RcK8LyAZtP9Kv3t0HmxON59tX3rD+tICJqUlj0=
 rsc.io/sampler v1.3.0/go.mod h1:T1hPZKmBbMNahiBKFy5HrXp6adAjACjK9JXDnKaTXpA=
